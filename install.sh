@@ -1,2 +1,6 @@
-echo "Installing clp to /usr/bin/"
+echo "------ Installing dependancies ------"
+apt-get install xclip
+gem install clipboard
+echo "------ Installing clp to /usr/bin/ ------"
 cp clp /usr/bin/clp
+echo "------ Install completed ------"
