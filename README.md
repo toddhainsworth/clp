@@ -9,4 +9,4 @@ Uses the 'Clipboard' Gem at http://rubygems.org/gems/clipboard
 Installation
 ============
 
-Use sudo with the install script
+Run the install script '''./install.sh
