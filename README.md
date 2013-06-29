@@ -9,4 +9,4 @@ Uses the 'Clipboard' Gem at http://rubygems.org/gems/clipboard
 Installation
 ============
 
-Run the install script '''./install.sh
+Run the install script ./install.sh
